@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Technical Skills
+title: Kin Wong
 
 # Full name (for SEO)
 first_name: Kin

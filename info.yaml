@@ -1,0 +1,95 @@
+info:
+  summary: Data Scientist with 6+ years of experience in machine learning operations, NLP, and data analytics. Specializes in
+    optimizing claim processing, transformer model tuning, and enhancing model accuracy to provide actionable business insights.
+    Certified in Azure DP-100 and eager to leverage expertise in designing and implementing both local and cloud-based AI solutions.
+  name: Kin Wong
+  location: Kirkland, WA
+  interest: Data Science, Home Lab
+  skills:
+    - Python
+    - Spark
+    - Airflow
+    - MLOps
+    - Docker
+    - Kubernetes
+    - Azure
+    - Transformer
+    - LLM
+    - Dashboard
+    - Model Monitoring
+    - NLP
+    - Data Cleaning
+    - Feature Selection
+    - Feature Engineering
+    - Anomaly Detection
+    - Classification
+
+experience:
+  - header: Ozil IT Consulting
+    subheader: Senior AI/ML Ops Engineer
+    date: Feb 2025 – Present
+    location: Remote
+    content: |
+      - Built a GenAI-powered, multi-modal Streamlit app that takes voice input in Cantonese and converts it into formal written Chinese—overcoming the challenge of transcribing and structuring a primarily spoken dialect.
+      - Designed and implemented an LLM pipeline with human-in-the-loop feedback to refine transcriptions and generate high-quality, context-aware summaries.
+      - Eliminated cloud dependency and halved costs by implementing an on-premises ML pipeline with transformer models, enabling AI-driven automation of image tagging.
+    company_url: "https://ozil.it.com"
+
+  - header: Optum
+    subheader: Data Scientist II
+    date: Apr 2022 – Feb 2025
+    location: Remote
+    content: |
+      - Currently implementing a Large Language Model (LLM) for medical contract rate extraction to prevent rate mismatches.
+      - Created an AI/ML pipeline utilizing healthcare data to reduce 30% of claims in post-pay claim inventory with an increase of 20% true positive rate, reducing auditor needs by 2 across 3 platforms.
+      - Optimized claim audit prioritization with healthcare data and saved over $144K annually by using PySpark for data cleaning, feature selection, and feature engineering in an AI/ML model pipeline.
+      - Supervised a production claim tiering pipeline in Apache Airflow, accounting for $13.8M in annual savings by ensuring system performance through resolving Kubernetes errors, managing Docker image builds, and performing Spark version upgrades.
+      - Collaborated with engineering and operations teams to address system performance issues and engaged with business stakeholders to provide insights and answers.
+      - Developed a Streamlit dashboard for a claim tiering pipeline, leveraged by leadership to track KPIs and key metrics like feature drift and recovery amounts, enabling actionable insights, business decisions, and early issue detection.
+    company_url: "https://www.optum.com"
+
+  - header: HP
+    subheader: NLP Data Scientist
+    date: Jul 2021 – Apr 2022
+    location: Remote
+    content: |
+      - Developed a deep learning MLOps pipeline to process over 2 million call logs weekly, providing insights into product issues and enabling targeted actions by the operational team.
+      - Fine-tuned BERT models to classify unstructured text data from helpdesk call logs, improving classification accuracy by 15% as part of a MLOps pipeline.
+      - Implemented FastText and mBART models on premise to identify languages of conversational text and translate non-English text, enabling analysis of product issues from overseas customers.
+      - Applied mBART model to translate non-English text on premise to address customer issues in multiple languages.
+      - Increased classification model accuracy by 20% by summarizing call logs using a GPT model.
+      - Created an OCR image to text pipeline using easyocr and cv2, saving 50 hours of manual data entry per month.
+    company_url: "https://www.hp.com"
+
+  - header: Calpine Corporation
+    subheader: Data Scientist
+    date: Aug 2019 – Jul 2021
+    location: Houston, TX
+    content: |
+      - Engineered features and developed time series models for machine learning projects, including anomaly detection to correct faulty turbine sensor outputs.
+      - Developed data pipelines and a classification system using ensemble methods to transform power plant data and accelerate turbine maintenance processes.
+      - Created an NLP model to categorize business reports, enhancing report classification efficiency.
+    company_url: "https://www.calpine.com"
+
+  - header: Calpine Corporation
+    subheader: Data Analyst
+    date: Jul 2017 – Dec 2018
+    location: Houston, TX
+    content: |
+      - Streamlined system report for power plant users by developing a PowerApps application integrated with SharePoint.
+      - Designed, enhanced, and tested BIRT reports from EAM software Maximo utilizing SQL and JavaScript, delivering tailored solutions to meet business needs.
+      - Created on-demand SSRS reports using real-time data to improve power plant operational insights.
+    company_url: "https://www.calpine.com"
+
+education:
+  - degree: Master of Science (MS)
+    field: Engineering and Data Science
+    institution: University of California Riverside
+
+  - degree: Bachelor of Science (BS)
+    field: Computer Information Systems
+    institution: University of Houston
+
+
+
+    

@@ -13,6 +13,11 @@ design:
 sections:
   - block: biography
     content:
+      name: Kin Wong
+      summary: Data Scientist with 6+ years of experience in machine learning operations, NLP, and data analytics. Specializes in
+        optimizing claim processing, transformer model tuning, and enhancing model accuracy to provide actionable business insights.
+        Certified in Azure DP-100 and eager to leverage expertise in designing and implementing both local and cloud-based AI solutions.
+      location: Kirkland, WA
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:

@@ -25,9 +25,9 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kinwong-ds
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://linkedin.com/in/ki-wong
 
 education:
   - area: Master's Degree in Engineering and Data Science
@@ -117,13 +117,14 @@ skills:
       - name: Feature Engineering
       - name: Anomaly Detection
       - name: Classification
-      - name: ChatBot
-      - name: RAG
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 100
+      - name: ChatBot / RAG
+      - name: Airflow
+      - name: Workflow/Pipeline Automation
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 100
 
 
 # Awards.
@@ -131,31 +132,64 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Open Source AI 14th Hackathon - Winner
+    url: https://www.linkedin.com/company/open-source-for-ai/
+    date: '2025-02-26'
+    awarder: OSS4AI
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Ddeveloped an innovative Streamlit application that combines weather data, user wardrobe, and GPT vision to provide personalized clothing recommendations. The app generates a virtual try-on experience, allowing users to see how outfits would fit on them, making fashion decisions easier and more accurate.
+  - title: UnitedHealth Group - Diamond Award
+    url: https://www.unitedhealthgroup.com/
+    date: '2024-07-01'
+    awarder: UnitedHealth Group Employee Recognition Program
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+
+  - title: UnitedHealth Group - Bravo Award
+    url: https://www.unitedhealthgroup.com/
+    date: '2023-04-01'
+    awarder: UnitedHealth Group Employee Recognition Program
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+  - title: Azure Data Scientist Associate
+    url: 
+    certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/KinWong-8797/A6AF84C5C405DB55?sharingId=4FF247050C9273A3
+    date: '2024-06-24'
+    awarder: Microsoft
+    icon: 
+    summary: |
+      Azure DP-100
+
+  - title: Azure AI Fundamentals
+    url: 
+    certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/KinWong-8797/33D9821EF9E40D0B?sharingId=4FF247050C9273A3
+    date: '2021-01-18'
+    awarder: Microsoft
+    icon: 
+    summary: |
+      Azure AI-900
+
+  - title: Azure Data Fundamentals
+    url: 
+    certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/KinWong-8797/3DBCDF77B2112365?sharingId=4FF247050C9273A3
+    date: '2021-01-10'
+    awarder: Microsoft
+    icon: 
+    summary: |
+      Azure DP-900
+
+  - title: Azure Fundamentals
+    url: 
+    certificate_url: https://learn.microsoft.com/api/credentials/share/en-us/KinWong-8797/906A142280644A92?sharingId=4FF247050C9273A3
+    date: '2021-01-06'
+    awarder: Microsoft
+    icon: 
+    summary: |
+      Azure AZ-900
+
+    
 ---
 
-I am a Data Scientist with 5+ years of experience in machine learning operations, NLP, and data analytics. Specializes in optimizing claim processing, transformer model tuning, and enhancing model accuracy to actionable business insights. Certified in Azure DP-100 and eager to leverage expertise in designing and implement local and cloud-based AI solutions.
+I am a Data Scientist with 6+ years of experience in machine learning operations, NLP, and data analytics. Specializes in optimizing claim processing, transformer model tuning, and enhancing model accuracy to actionable business insights. Certified in Azure DP-100 and eager to leverage expertise in designing and implement local and cloud-based AI solutions.

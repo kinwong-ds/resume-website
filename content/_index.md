@@ -14,14 +14,12 @@ sections:
   - block: biography
     content:
       name: Kin Wong
-      summary: Data Scientist with 6+ years of experience in machine learning operations, NLP, and data analytics. Specializes in
-        optimizing claim processing, transformer model tuning, and enhancing model accuracy to provide actionable business insights.
-        Certified in Azure DP-100 and eager to leverage expertise in designing and implementing both local and cloud-based AI solutions.
+      summary: Data Scientist with 6+ years of experience in machine learning operations, NLP, and data analytics. Specializes in optimizing claim processing, transformer model tuning, and enhancing model accuracy to pro actionable business insights. Certified in Azure DP-100 and eager to leverage expertise in designing and implementing local and cloud-based AI solutions.
       location: Kirkland, WA
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       banner:
@@ -40,14 +38,14 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Awards & Certifications
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---

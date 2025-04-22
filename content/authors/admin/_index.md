@@ -119,7 +119,7 @@ skills:
       - name: Classification
       - name: ChatBot / RAG
       - name: Airflow
-      - name: Workflow/Pipeline Automation
+      - name: Workflow / Pipeline Automation
 # languages:
 #   - name: English
 #     percent: 100

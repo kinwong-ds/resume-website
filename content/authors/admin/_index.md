@@ -138,7 +138,7 @@ awards:
     awarder: OSS4AI
     icon: 
     summary: |
-      Ddeveloped an innovative Streamlit application that combines weather data, user wardrobe, and GPT vision to provide personalized clothing recommendations. The app generates a virtual try-on experience, allowing users to see how outfits would fit on them, making fashion decisions easier and more accurate.
+      Developed an innovative Streamlit application that combines weather data, user wardrobe, and GPT vision to provide personalized clothing recommendations. The app generates a virtual try-on experience, allowing users to see how outfits would fit on them, making fashion decisions easier and more accurate.
   - title: UnitedHealth Group - Diamond Award
     url: https://www.unitedhealthgroup.com/
     date: '2024-07-01'

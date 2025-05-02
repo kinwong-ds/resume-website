@@ -14,7 +14,7 @@ last_name: Wong
 superuser: true
 
 # Role/position/tagline
-role: Senior AI/ML Enginner
+role: Senior AI/ML Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
